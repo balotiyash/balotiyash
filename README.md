@@ -41,7 +41,7 @@
 <p align="center">
   <!-- Frameworks & Tools -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/windows/48/000000/jquery.png" alt="jQuery"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
@@ -81,15 +81,15 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashBalotiya&show_icons=true&theme=tokyonight" alt="YashBalotiya" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balotiyash&show_icons=true&theme=tokyonight" alt="YashBalotiya" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashBalotiya&theme=tokyonight" alt="YashBalotiya Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balotiyash&theme=tokyonight" alt="YashBalotiya Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBalotiya&layout=compact&theme=tokyonight" alt="YashBalotiya Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balotiyash&layout=compact&theme=tokyonight" alt="YashBalotiya Top Languages" />
 </p>
 
 ---
