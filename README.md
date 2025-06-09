@@ -2,7 +2,7 @@
 <h3 align="center">💻 Junior Computer Engineer | Full Stack Developer | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashBalotiya&label=Profile%20views&color=0e75b6&style=flat" alt="YashBalotiya" />
+  <img src="https://komarev.com/ghpvc/?username=YashBalotiya&label=Profile%20views&color=0e75b6&style=flat" alt="Yash Balotiya" />
   <a href="https://www.linkedin.com/in/balotiyash/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-YashBalotiya-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -11,10 +11,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 Currently working as a **Freelance Full Stack Developer** with expertise in **Web Development**.
-- 🌱 I’m expanding my skills in **React JS**, **Next.js**, and **JavaScript Frameworks**.
+- 🔭 Currently working as a **Freelance Full Stack Developer** with expertise in **Web & App Development**.
+- 🌱 I’m expanding my skills in **React JS**, **Next.js**, **React Native** and **Hosting**.
 - 👯 Open to **collaborating on exciting projects** that make a difference.
-- 💬 Passionate about **web development**, **frontend/backend technologies**, and **solving tech challenges**.
+- 💬 Passionate about **web & app development**, **frontend/backend technologies**, and **solving tech challenges**.
 - 📫 Reach me at **balotiyash@gmail.com**.
 
 ---
